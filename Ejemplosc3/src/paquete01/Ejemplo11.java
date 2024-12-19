@@ -33,6 +33,9 @@ public class Ejemplo11 {
         30   52
         */
         
+        // En este codigo uso tres arreglos para poder darle valor a otra variable 
+        //y para saber que numero hay que poner dependiendo de la fila y columna 
+        
         int valor1;
         int valor2;
         
